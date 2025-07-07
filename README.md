@@ -2,6 +2,8 @@
 
 This is a demo repository for my Git assignment, showcasing the creation of a new branch and commits.
 
+## added demo branch feature
+
 ## Contributors
 
 - John Odey (mailto:johnodey4sure@gmail.com)
